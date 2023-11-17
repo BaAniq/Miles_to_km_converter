@@ -16,6 +16,12 @@ label_mile.grid(column=3, row=1)
 label_is_equal = Label(text='is equal to ')
 label_is_equal.grid(column=1, row=2)
 
+result = Label(text='0')
+result.grid(column=2, row=2)
+
+label_km = Label(text='Km')
+label_km.grid(column=3, row=2)
+
 
 
 
